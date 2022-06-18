@@ -1,2 +1,12 @@
 # channel_observations
 Using geophysical and remote sensing observations to better understand a subglacial channel on the Siple Coast, Antarctica
+
+
+We presents observations of the channel's shape and temporal gradient in topography. We describe surface topography  from remote sensing products as well as surface raising and lowering. The ice base topography is estimated over the channel using an interpolation of ground based radar data. Surface elevation and ice thickness are combined to estimate the extent to which ice is floating across the study area.  We present two transects of ApRES observations, across and parallel to the channel, which describe the changing ice base topography.   Results are used to constrain theories for channel growth and plume processes. We discuss the mechanism which caused the formation of the channel, the impact of bridging of ice stresses on observations, constraints on basal melt rates based on surface observations, and the implications of the channel shape on channel processes. 
+
+# Abstract
+
+
+Ice shelves buttress ice streams and glaciers, slowing the rate at which they flow into the ocean. When this buttressing is reduced, either through increased melt or calving, the increased discharge of grounded ice upstream contributes to sea level rise. The thickness, strength, and stability of ice shelves can be influenced by channels in the ice base.
+Here, we focus on a subglacially--sourced basal channel which is observed to have melted up to 50\% of the ice shelf thickness. The channel extends 6 km upstream of the previously estimated grounding line of the stagnant Kamb Ice Stream. Using a combination of ground--based observations and remote sensing, we find that the channel is growing upstream over time.  Over--snow radar surveying images the shape of the channel, constrains a steep inception, and shows that not all of the basal shape is manifest at the surface.  Modern surface lowering at the upstream head of the channel is interpreted as a region of focused melt where a subglacial outlet meets the ocean cavity. We estimate this basal melt to be at least 20 m/yr in a narrow (200 m x 1.5 km) zone. Downstream from the melt region, repeat phase sensitive radar observations reveal accretion contributing to the growth of a ledge on the true--right side of the channel. 
+We conclude that the channel is likely formed by a retreating subglacial outlet which triggers basal melt in episodic steps.
