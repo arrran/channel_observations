@@ -1,4 +1,4 @@
-# channel_observations
+# Melting and refreezing in an ice shelf basal channel at the grounding line of the Kamb Ice Stream, West Antarctica
 Using geophysical and remote sensing observations to better understand a subglacial channel on the Siple Coast, Antarctica
 
 
